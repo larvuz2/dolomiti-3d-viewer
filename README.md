@@ -20,7 +20,7 @@ An interactive 3D viewer for Tre Cime di Lavaredo in the Dolomites, built with [
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YourUsername/dolomiti-3d-viewer.git
+git clone https://github.com/larvuz2/dolomiti-3d-viewer.git
 cd dolomiti-3d-viewer
 ```
 
